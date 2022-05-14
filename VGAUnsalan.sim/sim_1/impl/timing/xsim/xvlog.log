@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGAProjects/VGAUnsalan/VGAUnsalan.sim/sim_1/impl/timing/xsim/VGA_top_module_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VGA_module
+INFO: [VRFC 10-311] analyzing module VGA_top_module
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz_0_clk_wiz
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0_dist_mem_gen_v8_0_13
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0_dist_mem_gen_v8_0_13_synth
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0_rom
+INFO: [VRFC 10-311] analyzing module glbl
